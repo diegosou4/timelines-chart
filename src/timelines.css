@@ -55,7 +55,7 @@
   
   .legend {
     font-family: Sans-Serif;
-    font-size: 14px;
+    height: 200px;
 
     .legendText {
       font-size: 14px;
@@ -63,9 +63,7 @@
     }
   }
 
-  .legendG{
-    height: 100px;
-  }
+
 
   .reset-zoom-btn {
     font-family: sans-serif;
