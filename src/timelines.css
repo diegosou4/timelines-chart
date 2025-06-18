@@ -16,7 +16,7 @@
     }
 
     .x-axis {
-      font: 200px sans-serif;
+      font: 12px sans-serif;
     }
 
     .x-grid line {
@@ -55,6 +55,7 @@
 
   .legend {
     font-family: Sans-Serif;
+    font-size: 14px;
 
     .legendText {
       fill: #666;
