@@ -58,6 +58,7 @@
     font-size: 14px;
 
     .legendText {
+      font-size: 14px;
       fill: #666;
     }
   }
