@@ -55,7 +55,6 @@
   
   .legend {
     font-family: Sans-Serif;
-
     .legendText {
       font-size: 14px;
       fill: #666;
@@ -66,7 +65,7 @@
 
   .reset-zoom-btn {
     font-family: sans-serif;
-    fill: rgb(104, 104, 104);
+    fill: blue;
     opacity: .6;
     cursor: pointer;
   }
