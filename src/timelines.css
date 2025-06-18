@@ -52,7 +52,7 @@
   .series-group, .series-segment {
     cursor: crosshair;
   }
-
+  
   .legend {
     font-family: Sans-Serif;
     font-size: 14px;
@@ -61,6 +61,10 @@
       font-size: 14px;
       fill: #666;
     }
+  }
+
+  .legendG{
+    width: 100px;
   }
 
   .reset-zoom-btn {
